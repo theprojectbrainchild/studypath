@@ -2,6 +2,8 @@
 ###It's a collection of web links we follow to learn a specific path
 
 * Web
+  * Canvas
+    * [Canvas Tutorial - Mozilla](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
   * SVG
     * [The ultimate guide to svg](http://www.webdesignerdepot.com/2015/01/the-ultimate-guide-to-svg)
     * [SVG Tutorial](http://tutorials.jenkov.com/svg/index.html)

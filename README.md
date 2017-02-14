@@ -8,6 +8,8 @@
   * SVG
     * [The ultimate guide to svg](http://www.webdesignerdepot.com/2015/01/the-ultimate-guide-to-svg)
     * [SVG Tutorial](http://tutorials.jenkov.com/svg/index.html)
+  * Processing
+    * [Processing.js vs P5.js](https://www.sitepoint.com/processing-js-vs-p5-js-whats-difference/)
   * WebGL
     * [WebGL Tutorial - Mozilla Documentation](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial)
     * [Learning WebGL](http://learningwebgl.com/blog/?page_id=1217/)

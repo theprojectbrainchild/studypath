@@ -4,6 +4,7 @@
 * Web
   * Canvas
     * [Canvas Tutorial - Mozilla](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
+    * [HTML5 Canvas Tutorial](http://www.html5canvastutorials.com/)
   * SVG
     * [The ultimate guide to svg](http://www.webdesignerdepot.com/2015/01/the-ultimate-guide-to-svg)
     * [SVG Tutorial](http://tutorials.jenkov.com/svg/index.html)
